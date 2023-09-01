@@ -2,9 +2,9 @@ Hi I'm Will, a 5th year CS student at Drexel University. I'm primarily intereste
 lower level software development but I've dabbled in plenty of other areas. 
 
 This page might seem a little sparse, but that's just because I've only just
-recently started uploading things here. So as of right now, any programming assignment
-or project I've done recently enough of any size that I can feel somewhat proud of, 
-I've been archiving them here. 
+recently started uploading things here to save them for the future. So, as of 
+right now, any programming assignment or project I've done recently enough of 
+any size that I can feel somewhat proud of, I've been archiving them here. 
 
 One thing to know about me is that I don't program in my free time very often, usually
 preferring to pursue other hobbies and social events. Don't let that make it seem like
